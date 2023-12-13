@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 50px;
+    margin-bottom: 10px;
+}
+
+#typewriter {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
